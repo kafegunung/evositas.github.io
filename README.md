@@ -9,9 +9,9 @@
 
 <details>
   <summary>
-    <i>Click to view features</i>
+    <i>Kata Harta Karun</i>
   </summary>
-  <p> contoh feature
+  <p>Cinta dan pelayanan adalah sumber energi kelimpahan yang besar
 	</p>
 	</details>
   
