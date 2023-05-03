@@ -11,7 +11,7 @@
   <summary>
     <i>Kata Harta Karun</i>
   </summary>
-  <p>Cinta dan pelayanan adalah sumber energi kelimpahan yang besar
+  <p>Masa depan sehat, ceria, bahagia dan sejahtera
 	</p>
 	</details>
   
