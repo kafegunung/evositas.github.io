@@ -503,4 +503,3 @@ sudah bisa belajar dan mendapatkan dolar
     </ul>
     <box-icon name='candles' flip='horizontal' ></box-icon>
   </body>
-	  </html>
