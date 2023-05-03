@@ -2,7 +2,8 @@
 <a class="text-blue" href="https://explorer.btc.com/btc/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitcoin</a> |
 	<a class="text-blue" href="https://www.twitter.com/evositas">Twitter</a> |
 	<a class="text-blue" href="https://instagram.com/evositas">Instagram</a> |
-	<a class="text-blue" href="https://www.youtube.com/@evositas">Youtube</a>
+	<a class="text-blue" href="https://www.youtube.com/@evositas">Youtube</a> |
+	<a class="text-blue" href="https://api.whatsapp.com/send?phone=628999587888">WhatsApp</a>
 </div>
 "Trading forex menjadi lebih mudah dengan broker terbaik kami yang bernama [Tickmil](https://secure.tickmill.com/?utm_campaign=ib_link&utm_content=IB20165044&utm_medium=OPEN+ACCOUNT&utm_source=link&lp=https%3A%2F%2Fsecure.tickmill.com%2Fusers%2Fregister)! Dapatkan kemudahan dalam trading forex dengan layanan terbaik dan transaksi yang aman. Nikmati pengalaman trading yang menyenangkan dan menguntungkan dengan berbagai fitur dan instrumen yang tersedia. Segera bergabung dengan broker terbaik kami dan jadilah trader sukses!" Itulah salah satu cara untuk menghasilkan dolar melalui online yang bisa dikatakan mudah. Kita bisa belajar bersama mencari dolar di pasar uang bersama `Evositas`, dengan menggunakan aplikasi <a class="text-blue" href="https://www.metatrader4.com/en/download">MetaTrader4</a> untuk trading forex dengan menggunakan broker [Tickmil](https://secure.tickmill.com/?utm_campaign=ib_link&utm_content=IB20165044&utm_medium=OPEN+ACCOUNT&utm_source=link&lp=https%3A%2F%2Fsecure.tickmill.com%2Fusers%2Fregister).
 
