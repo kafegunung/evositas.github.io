@@ -1,36 +1,3 @@
-
-## Features
-
-<details>
-  <summary>
-    <i>Click to view features</i>
-  </summary>
-  <p>
-
-  - Dark / Light Theme Mode
-  - Localized UI language
-  - Pinned Posts
-  - Hierarchical Categories
-  - Trending Tags
-  - Table of Contents
-  - Last Modified Date of Posts
-  - Syntax Highlighting
-  - Mathematical Expressions
-  - Mermaid Diagram & Flowchart
-  - Dark / Light Mode Images
-  - Embed Videos
-  - Disqus / Utterances / Giscus Comments
-  - Search
-  - Atom Feeds
-  - Google Analytics
-  - Page Views Reporting
-  - SEO & Performance Optimization
-
-  </p>
-</details>
-
-## Documentation	
-![git_banner_1200x200](https://raw.githubusercontent.com/evositas/evositas.github.io/main/eth.jpg)
 <div align="center">
 <a class="text-blue" href="https://explorer.btc.com/btc/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitcoin</a> |
 	<a class="text-blue" href="https://www.twitter.com/evositas">Twitter</a> |
@@ -38,6 +5,14 @@
 	<a class="text-blue" href="https://www.youtube.com/@evositas">Youtube</a>
 </div>
 "Trading forex menjadi lebih mudah dengan broker terbaik kami yang bernama [Tickmil](https://secure.tickmill.com/?utm_campaign=ib_link&utm_content=IB20165044&utm_medium=OPEN+ACCOUNT&utm_source=link&lp=https%3A%2F%2Fsecure.tickmill.com%2Fusers%2Fregister)! Dapatkan kemudahan dalam trading forex dengan layanan terbaik dan transaksi yang aman. Nikmati pengalaman trading yang menyenangkan dan menguntungkan dengan berbagai fitur dan instrumen yang tersedia. Segera bergabung dengan broker terbaik kami dan jadilah trader sukses!" Itulah salah satu cara untuk menghasilkan dolar melalui online yang bisa dikatakan mudah. Kita bisa belajar bersama mencari dolar di pasar uang bersama `Evositas`, dengan menggunakan aplikasi <a class="text-blue" href="https://www.metatrader4.com/en/download">MetaTrader4</a> untuk trading forex dengan menggunakan broker [Tickmil](https://secure.tickmill.com/?utm_campaign=ib_link&utm_content=IB20165044&utm_medium=OPEN+ACCOUNT&utm_source=link&lp=https%3A%2F%2Fsecure.tickmill.com%2Fusers%2Fregister).
+
+<details>
+  <summary>
+    <i>Click to view features</i>
+  </summary>
+  <p> contoh feature
+	</p>
+	</details>
   
  ```bash 
  tetap belajar dan berlatih
