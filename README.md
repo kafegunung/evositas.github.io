@@ -11,7 +11,7 @@
   <summary>
     <i>Kata Harta Karun</i>
   </summary>
-  <p>Masa depan sehat, ceria, bahagia dan sejahtera
+  <p>Dalam jangka satu bulan, di pasar keuangan akan ada momentum pergerakan satu arah
 	</p>
 	</details>
   
