@@ -3,9 +3,6 @@
 Evositas 🍌 </h1>
 <div align="center">
 <a class="text-blue" href="https://explorer.btc.com/btc/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitcoin</a> |
-	<a href="https://twitter.com/intent/follow?screen_name=evositas">
-        <img src="https://img.shields.io/twitter/follow/evositas?style=social&logo=twitter"
-            alt="follow on Twitter"></a> |
 	<a class="text-blue" href="https://instagram.com/evositas">Instagram</a> |
 	<a class="text-blue" href="https://www.youtube.com/@evositas">Youtube</a> |
 	<a class="text-blue" href="https://api.whatsapp.com/send?phone=628999587888">WhatsApp</a>
@@ -506,6 +503,9 @@ sudah bisa belajar mendapatkan dolar
       <li>Instagram: <a class="text-blue" href="https://www.instagram.com/evositas">Evositas</a></li>
       <li>YouTube: <a class="text-blue" href="https://www.youtube.com/@evositas">Evositas</a></li>
       <li>Instagram: <a class="text-blue" href="https://www.instagram.com/masakanchina">Masakan China</a></li>
+<li><a href="https://twitter.com/intent/follow?screen_name=evositas">
+        <img src="https://img.shields.io/twitter/follow/evositas?style=social&logo=twitter"
+            alt="follow on Twitter"></a></li>
     </ul>
     <box-icon name='candles' flip='horizontal' ></box-icon>
   </body>
