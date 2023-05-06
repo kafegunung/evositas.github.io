@@ -1,6 +1,8 @@
 <div align="center">
 <a class="text-blue" href="https://explorer.btc.com/btc/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitcoin</a> |
-	<a class="text-blue" href="https://www.twitter.com/evositas">Twitter</a> |
+	<a href="https://twitter.com/intent/follow?screen_name=evositas">
+        <img src="https://img.shields.io/twitter/follow/evositas?style=social&logo=twitter"
+            alt="follow on Twitter"></a> |
 	<a class="text-blue" href="https://instagram.com/evositas">Instagram</a> |
 	<a class="text-blue" href="https://www.youtube.com/@evositas">Youtube</a> |
 	<a class="text-blue" href="https://api.whatsapp.com/send?phone=628999587888">WhatsApp</a>
