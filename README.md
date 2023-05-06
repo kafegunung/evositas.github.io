@@ -1,3 +1,4 @@
+[![Go Test](https://github.com/ipfs/boxo/actions/workflows/go-test.yml/badge.svg
 <div align="center">
 <a class="text-blue" href="https://explorer.btc.com/btc/address/1EZjeVjTZZNz5P9p4Qe9QxybCw2znxFB6B">Bitcoin</a> |
 	<a href="https://twitter.com/intent/follow?screen_name=evositas">
