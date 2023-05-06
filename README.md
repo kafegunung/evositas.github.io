@@ -15,7 +15,7 @@
 	</p>
 	</details>
 	
-  - ![deprecated](https://img.shields.io/badge/status-menunggu-yellow.svg?style=flat-square) - Sedang menunggu momentumnya
+  - ![deprecated](https://img.shields.io/badge/status-menunggu-green.svg?style=flat-square) - Sedang menunggu momentumnya
  ```bash 
  tetap belajar dan berlatih
  sebab kita menggunakan keterampilan
