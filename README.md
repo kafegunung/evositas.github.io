@@ -49,9 +49,9 @@ sukses Anda dalam trading forex
  ```  
 ```bash
 Memulai belajar trading bersama Evositas
-tidak harus menggunakan modal yang banyak
+tidak harus menggunakan modal banyak
 Rp.500.000 (Lima ratus ribu rupiah)
-sudah bisa belajar dan mendapatkan dolar
+sudah bisa belajar mendapatkan dolar
 ```
 <img src="https://rawgit.com/gorangajic/react-icons/master/react-icons.svg" width="120" alt="React Icons">
 # [Belajar Bersama Evositas](https://react-icons.github.io/react-icons)
