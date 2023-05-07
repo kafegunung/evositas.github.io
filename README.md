@@ -507,5 +507,3 @@ sudah bisa belajar mendapatkan dolar
 <a href="https://twitter.com/intent/follow?screen_name=evositas">
         <img src="https://img.shields.io/twitter/follow/evositas?style=social&logo=twitter"
             alt="follow on Twitter">
-</div align="center"></a></li>
-  
