@@ -509,5 +509,4 @@ sudah bisa belajar mendapatkan dolar
             alt="follow on Twitter"></a>
 </div align="center"></li>
     </ul>
-    <box-icon name='candles' flip='horizontal' ></box-icon>
-  </body>
+    
