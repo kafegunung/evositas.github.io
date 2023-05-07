@@ -504,9 +504,8 @@ sudah bisa belajar mendapatkan dolar
       <li>Instagram: <a class="text-blue" href="https://www.instagram.com/masakanchina">Masakan China</a></li>
 
 <li><div align="center">
-<a href="https://twitter.com/intent/follow?screen_name=evositas">
+<a>href="https://twitter.com/intent/follow?screen_name=evositas">
         <img src="https://img.shields.io/twitter/follow/evositas?style=social&logo=twitter"
             alt="follow on Twitter"></a>
 </div align="center"></li>
-    </ul>
-    
+  
