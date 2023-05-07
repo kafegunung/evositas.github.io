@@ -1,4 +1,3 @@
-
 <h1 align="center">
 EVOSITAS 🍌 </h1>
 <div align="center">
@@ -504,11 +503,11 @@ sudah bisa belajar mendapatkan dolar
       <li>YouTube: <a class="text-blue" href="https://www.youtube.com/@evositas">Evositas</a></li>
       <li>Instagram: <a class="text-blue" href="https://www.instagram.com/masakanchina">Masakan China</a></li>
 
-<div align="center">
+<li><div align="center">
 <a href="https://twitter.com/intent/follow?screen_name=evositas">
         <img src="https://img.shields.io/twitter/follow/evositas?style=social&logo=twitter"
             alt="follow on Twitter"></a>
-</div align="center">
+</div align="center"></li>
     </ul>
     <box-icon name='candles' flip='horizontal' ></box-icon>
   </body>
