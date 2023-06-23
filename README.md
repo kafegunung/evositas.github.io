@@ -502,6 +502,7 @@ sudah bisa belajar mendapatkan dolar
       <li>Instagram: <a class="text-blue" href="https://www.instagram.com/evositas">Evositas</a></li>
       <li>YouTube: <a class="text-blue" href="https://www.youtube.com/@evositas">Evositas</a></li>
       <li>Instagram: <a class="text-blue" href="https://www.instagram.com/masakanchina">Masakan China</a></li>
+      <li>Kata Mutiara: <a class="text-blue" href="https://nodeless.io/pw/b3276c30-5ee1-4541-8895-a83149437db8">Sebagian besar dari Anda bisa menjadi pemenang besar dalam trading. Namun, kurangnya disiplin menahan Anda. Membangun disiplin tidaklah mudah tetapi itu adalah hal terpenting yang pernah saya lakukan. Begini caranya 🧵 👈</li>
 
 <li><div align="center">
 <a href="https://twitter.com/intent/follow?screen_name=evositas">
