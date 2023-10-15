@@ -85,27 +85,35 @@ sudah bisa belajar mendapatkan dolar
     <table>
       <tr>
         <th>Level</th>
-        <th>Modal</th>
-        <th>Profit</th>
-        <th>Total Modal</th>
+        <th>Saldo</th>
+        <th>Laba/Rugi</th>
+        <th>Equitas</th>
+	<th>Volume</th>
+	<th>Keterangan</th>
       </tr>
       <tr>
         <td>1</td>
         <td>$10.00</td>
         <td>$1.00</td>
-        <td>$11.00</td>
+        <td>$11.00/$9</td>
+	<td>0.01</td>
+	<td>Keberhasilan menyukai persiapan</td>
       </tr>
       <tr>
         <td>2</td>
         <td>$11.00</td>
         <td>$1.10</td>
-        <td>$12.10</td>
+        <td>$12.10/$9.90</td>
+	      <td>0.01</td>
+	      <td>Tidak ada perdagangan yang pasti</td>
       </tr>
       <tr>
         <td>3</td>
         <td>$12.10</td>
         <td>$1.21</td>
         <td>$13.31</td>
+	      <td>0.01</td>
+	      <td>Strategi & sistem itu seperti kompas</td>
       </tr>
       <tr>
         <td>4</td>
