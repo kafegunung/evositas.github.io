@@ -135,7 +135,9 @@ sudah bisa belajar mendapatkan dolar
         <td>6</td>
         <td>$16.10</td>
         <td>$1.61</td>
-        <td>$17.71</td>
+        <td>$17.71/$14.49</td>
+	      <td>0.01</td>
+	      <td>Perdagangan ini perjalanan sulit</td>
       </tr>
       <tr>
         <td>7</td>
