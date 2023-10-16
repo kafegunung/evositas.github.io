@@ -151,7 +151,9 @@ sudah bisa belajar mendapatkan dolar
         <td>8</td>
         <td>$19.48</td>
         <td>$1.95</td>
-        <td>$21.43</td>
+        <td>$21.43/$17.53</td>
+	      <td>0.01</td>
+	      <td>Gaya dapat berubah begitu cepat</td>
       </tr>
       <tr>
         <td>9</td>
