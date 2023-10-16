@@ -159,7 +159,9 @@ sudah bisa belajar mendapatkan dolar
         <td>9</td>
         <td>$21.43</td>
         <td>$2.14</td>
-        <td>$23.57</td>
+        <td>$23.57/$19.29</td>
+	      <td>0.02</td>
+	      <td>Senang mengikuti perkembangan terkini</td>
       </tr>
       <tr>
         <td>10</td>
