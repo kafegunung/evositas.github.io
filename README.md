@@ -95,7 +95,7 @@ sudah bisa belajar mendapatkan dolar
         <td>1</td>
         <td>$10.00</td>
         <td>$1.00</td>
-        <td>$11.00/$9</td>
+        <td>$11.00/$9.00</td>
 	<td>0.01</td>
 	<td>Keberhasilan menyukai persiapan</td>
       </tr>
@@ -127,7 +127,9 @@ sudah bisa belajar mendapatkan dolar
         <td>5</td>
         <td>$14.64</td>
         <td>$1.46</td>
-        <td>$16.10</td>
+        <td>$16.10/$13.18</td>
+	      <td>0.01</td>
+	      <td>Bangun kembali ketika Anda gagal</td>
       </tr>
       <tr>
         <td>6</td>
