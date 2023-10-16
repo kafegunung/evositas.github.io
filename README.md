@@ -143,7 +143,9 @@ sudah bisa belajar mendapatkan dolar
         <td>7</td>
         <td>$17.71</td>
         <td>$1.77</td>
-        <td>$19.48</td>
+        <td>$19.48/$15.94</td>
+	      <td>0.01</td>
+	      <td>Batasi kerugian yang tidak perlu</td>
       </tr>
       <tr>
         <td>8</td>
