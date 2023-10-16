@@ -111,7 +111,7 @@ sudah bisa belajar mendapatkan dolar
         <td>3</td>
         <td>$12.10</td>
         <td>$1.21</td>
-        <td>$13.31</td>
+        <td>$13.31/$10.89</td>
 	      <td>0.01</td>
 	      <td>Strategi & sistem itu seperti kompas</td>
       </tr>
@@ -119,7 +119,9 @@ sudah bisa belajar mendapatkan dolar
         <td>4</td>
         <td>$13.31</td>
         <td>$1.33</td>
-        <td>$14.64</td>
+        <td>$14.64/$11.98</td>
+	      <td>0.01</td>
+	      <td>Keberhasilan hasil dari kebiasaan</td>
       </tr>
       <tr>
         <td>5</td>
@@ -513,7 +515,7 @@ sudah bisa belajar mendapatkan dolar
       <li>Kata Mutiara: <a class="text-blue" href="https://nodeless.io/pw/b3276c30-5ee1-4541-8895-a83149437db8">Sebagian besar dari Anda bisa menjadi pemenang besar dalam trading. Namun, kurangnya disiplin menahan Anda. Membangun disiplin tidaklah mudah tetapi itu adalah hal terpenting yang pernah saya lakukan. Begini caranya 🧵 👈</li>
 
 <li><div align="center">
-<a href="https://twitter.com/intent/follow?screen_name=evositas">
-        <img src="https://img.shields.io/twitter/follow/evositas?style=social&logo=twitter"
+<a href="https://twitter.com/intent/follow?screen_name=getbos">
+        <img src="https://img.shields.io/twitter/follow/getbos?style=social&logo=twitter"
             alt="follow on Twitter">
 	<a href="https://www.facebook.com/metabrani" ><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
